@@ -1,0 +1,504 @@
+AGENT tattooed TARGET with TOOL in PLACE
+it rains in the PLACE
+an AGENT restrained the RESTRAINED in a PLACE
+an AGENT splashes a DESTINATION with a SUBSTANCE with a TOOL in a PLACE
+an AGENT walks at a PLACE
+the AGENT used a CONNECTOR to paste an ITEM to an OBJECT in a PLACE
+the AGENT sketches an IMAGE on MATERIAL with a TOOL in PLACE
+an AGENT skis in a PLACE
+AGENT is with TOOL to inflate OBJECT in PLACE
+AGENT rehabilitates ITEM at a PLACE
+the AGENT displays the ITEM to the TARGET with a TOOL at a PLACE
+the AGENT marches in a PLACE
+the AGENT feeds FOOD from a SOURCE to the EATER in PLACE
+the AGENT hunts the HUNTED in the PLACE
+it snows at a PLACE
+an AGENT shreds an ITEM with a TOOL at a PLACE
+an AGENT chews an ITEM in a PLACE
+the TEACHER to teach the STUDENT at a PLACE
+the AGENT flicks the OBJECT in the OBJECTPART with their AGENTPART at a PLACE
+an AGENT shaves a COAGENT BODYPART with a TOOL with the help of a SUBSTANCE at a PLACE
+an AGENT balloons at a PLACE
+AGENTS intermingle in a PLACE
+AGENT flings ITEM toward GOAL with TOOL in a PLACE
+an AGENT sits on a CONTACT at a PLACE
+an AGENT yanks the YANKED by the YANKEDPART in a PLACE
+an AGENT puts an ITEM into a DESTINATION in a PLACE
+the AGENT drinks a LIQUID from a CONTAINER at a PLACE
+the AGENT wilts in the PLACE
+an AGENT mashes an ITEM with a TOOL in a PLACE
+an AGENT washes an ITEM of DIRT with a TOOL in a PLACE
+the AGENT kneads an ITEM at a PLACE
+AGENT is rearing in PLACE
+the AGENT urinates onto the TARGET at a PLACE
+an AGENT slouches on the CONTACT at a PLACE
+an AGENT moistens an ITEM with a LIQUID at a PLACE
+an AGENT measures an OBJECT QUANTITY with a TOOL at PLACE
+the AGENT lectures the AUDIENCE in a PLACE
+the AGENT bubbles in PLACE
+the AGENT shushes the TARGET at the PLACE
+the AGENT cuts up ITEM with TOOL in PLACE
+an AGENT shrugs at an ADDRESSEE at a PLACE
+the AGENT parachuted with a PARACHUTE to the DESTINATION at the PLACE
+an AGENT gives an ITEM to the RECIPIENT at a PLACE
+an AGENT cooks a FOOD in a CONTAINER over a HEATSOURCE with a TOOL in a PLACE
+an AGENT waits at a PLACE
+AGENT is saluting TARGET in PLACE
+the AGENT falls from SOURCE to GOAL at a PLACE
+the AGENT races against the COMPETITOR at a PLACE
+an AGENT rams the VICTIM with a RAMMINGITEM at a PLACE
+an AGENT pushes an ITEM with an AGENTPART at a PLACE
+AGENT is wrapping WRAPPEDITEM with WRAPPINGITEM in PLACE
+the AGENT leaps from the SOURCE over an OBSTACLE to the DESTINATION in the PLACE
+an AGENT pack an ITEM into a CONTAINER at a PLACE
+the AGENT forages for ITEM in PLACE
+the AGENT smears an ITEM on a SURFACE with a TOOL at a PLACE
+an AGENT ascends at a PLACE
+AGENT is stretching ITEM in PLACE
+the AGENT ignores the BORINGTHING in the PLACE
+the AGENT whisks ITEM in CONTAINER in PLACE
+the AGENT sharpens ITEM with TOOL in PLACE
+an AGENT jogs at a PLACE
+an AGENT browses for a GOALITEM at a PLACE
+an AGENT seals an ITEM with SEALANT at a PLACE
+an AGENT rafts at a PLACE
+the AGENT examines the ITEM with a TOOL at a PLACE
+the AGENT hikes at a PLACE
+the AGENT claps their AGENTPART in a PLACE
+the AGENT stuffs the ITEM in the DESTINATION at the PLACE
+an AGENT hunches over a SURFACE in a PLACE
+an AGENT rakes an ITEM from a SOURCE into a DESTINATION at a PLACE
+AGENT is punching VICTIM BODYPART in PLACE
+the AGENT sings in the PLACE
+AGENT is standing in PLACE
+the AGENT taxies on the GROUND at the PLACE
+an AGENT works on a FOCUS to achieve a goal in a PLACE
+AGENT whips ITEM with TOOL at a PLACE
+AGENT is watering RECIPIENT with TOOL in PLACE
+the AGENT steers the VEHICLE with the TOOL in the PLACE
+the AGENT uses a TOOL to distribute DISTRIBUTED to RECIPIENTS at a PLACE
+an AGENT spies on a TARGET with a TOOL in a PLACE
+the AGENT uncorks a CONTAINER with a TOOL in PLACE
+AGENT panhandles TARGET at a PLACE
+an AGENT weeps at a PLACE
+an AGENT squeezes an ITEM with a TOOL at a PLACE
+an AGENT curtsies at a PLACE
+the AGENT pawed the PAWEDITEM with her AGENTPART at a PLACE
+the AGENT spears the VICTIM in a PLACE
+AGENT whirls at a PLACE
+the AGENT drips the FLUID from the SOURCE to the DESTINATION in the PLACE
+an AGENT carries an ITEM on their AGENTPART at a PLACE
+the AGENT pinches the OBJECT in the OBJECTPART at a PLACE
+the AGENT flapped its BODYPART in PLACE
+an AGENT ties an ITEM to a DESTINATION with a CONNECTOR at a PLACE
+the AGENT arranges ITEM with TOOL in PLACE
+the AGENT tears the ITEM with the TOOL in the PLACE
+the BLOCKER blocked the BLOCKED with a TOOL in PLACE
+AGENT is swooping in PLACE
+an AGENT practices a SKILL with a TOOL at PLACE
+the AGENT recovers from an AILMENT at a PLACE
+an AGENT installs a COMPONENT into a DESTINATION with a TOOL at a PLACE
+AGENT is dousing UNDERGOER with LIQUID in PLACE
+an AGENT butters an ITEM with a TOOL in a PLACE
+an AGENT scrubs an ITEM with a TOOL at a PLACE
+an AGENT makes a GOALITEM by manipulating a COMPONENT with a TOOL at a PLACE
+the AGENT unpacks ITEM from CONTAINER in PLACE
+an AGENT mows an ITEM with a TOOL in a PLACE
+an AGENT stacks a TOP onto a BOTTOM in a PLACE
+the AGENT stings the VICTIM on the VICTIMPART in PLACE
+the AGENT heaves the HEAVEDITEM with a TOOL at a PLACE
+the AGENT pulls an ITEM with a TOOL at a PLACE
+an AGENT counts the ITEMTYPE at a PLACE
+the AGENT breaks the ITEM with a TOOL at a PLACE
+the AGENT docks VEHICLE with CONNECTOR in PLACE
+an AGENT scolds a VICTIM in a PLACE
+an AGENT destroyed the DESTROYEDITEM with a TOOL at a PLACE
+AGENT dries ITEM with TOOL at a PLACE
+the AGENT poked the OBJECT in its OBJECTPART with a TOOL in PLACE
+the AGENT tickled TICKLED with an OBJECT in PLACE
+the AGENT glows at a PLACE
+the AGENT recuperates at the PLACE
+AGENT butts TARGET at a PLACE
+an AGENT communicates to the ADRESSEE at a PLACE
+the AGENT is begging the GIVER for ITEM in PLACE
+an AGENT hoists an ITEM up from a SOURCE with a TOOL at a PLACE
+the AGENT uses the TOOL to nail ITEM1 and ITEM2 together in the PLACE
+an AGENT lights an ITEM on fire with a TOOL at a PLACE
+the AGENT shelves an ITEM on a DESTINATION in PLACE
+an AGENT wags the AGENTPART at an ADDRESSEE in a PLACE
+the AGENT lifts ITEM from START to END in PLACE
+AGENT is surfing a PATH with a TOOL at a PLACE
+an AGENT chases the CHASEE at a PLACE
+AGENT is twisting AGENTPART at PLACE
+a CARRIER hauls an ITEM with a TOOL in a PLACE
+an AGENT vaults from START over OBSTACLE to END with a TOOL at a PLACE
+the AGENT complains to the LISTENER in a PLACE
+an AGENT crawls at a PLACE
+an AGENT punts a ITEM at a PLACE
+the AGENT erases the ERASED from SOURCE in PLACE
+an AGENT bathes a COAGENT with a TOOL and a SUBSTANCE in a PLACE
+the AGENT serves an ITEM to the SERVED at a PLACE
+AGENT telephones at a PLACE
+an AGENT mimes an IMITATION at a PLACE
+the INDIVIDUALS congregate at the PLACE
+the AGENT smiles in PLACE
+an AGENT decorates the DECORATED with an ITEM at a PLACE
+the AGENT scores in PLACE
+an AGENT pouts at a PLACE
+an AGENT yawns at a PLACE
+an AGENT soaks an ITEM in a SUBSTANCE in a CONTAINER at a PLACE
+AGENT bandages VICTIM at a PLACE
+AGENT writes on TARGET with a TOOL at a PLACE
+an AGENT coaches a STUDENT to be good at a SKILL at a PLACE
+an AGENT brawls at a PLACE
+the AGENT spoils at a PLACE
+AGENT poos onto a DESTINATION at a PLACE
+an AGENT sucks on an ITEM in a PLACE
+the AGENT unveils the OBJECT in a PLACE
+the AGENT flips the FLIPPED with a TOOL in PLACE
+the AGENT slices the SLICEDITEM with a TOOL at the PLACE
+a TEACHER educates a STUDENT on a SUBJECT at a PLACE
+the AGENT bothers the VICTIM by do an ACTION in PLACE
+the AGENT sweeps the SURFACE with the BRUSH in the PLACE
+an AGENT bakes a FOOD in a FOODCONTAINER by applying heat with a HEATSOURCE at a PLACE
+an AGENT spins a MATERIAL with a TOOL in a PLACE
+the AGENT dyes the MATERIAL with DYE in PLACE
+an AGENT slips onto a DESTINATION at a PLACE
+an AGENT ducks to a avoid a BLOW in a PLACE
+AGENT shakes ITEM with TOOL at a PLACE
+the AGENT signs the SIGNEDITEM with the TOOL at the PLACE
+AGENT braids ITEM at a PLACE
+AGENT is stooping at PLACE
+an AGENT celebrates an OCCASION at a PLACE
+an AGENT catches a CAUGHTITEM with a TOOL at a PLACE
+an AGENT juggles ITEMS in a PLACE
+an AGENT preaches to a ADDRESSEE in a PLACE
+the AGENT scratches the OBJECT with a TOOL at a PLACE
+an AGENT shears an ITEM from a SOURCE at a PLACE
+an AGENT ejects an ITEM from a SOURCE toward a DESTINATION at a PLACE
+AGENT is driving ITEM in PLACE
+the AGENT puckers her AGENTPART at a PLACE
+an AGENT peels an ITEM with a TOOL at a PLACE
+the AGENT hangs the ITEM from the SCAFFOLD in the PLACE
+the AGENT bulldozes the OBJECT at a PLACE
+the AGENT slides the SLIDER on a SURFACE to a DESTINATION at a PLACE
+an AGENT ignites the ITEM with a TOOL at PLACE
+AGENT is turning TURNEDITEM in PLACE
+an AGENT pumps a SUBSTANCE from a SOURCE to a DESTINATION with a TOOL at a PLACE
+an AGENT clenched an ITEM with the AGENTPART at a PLACE
+the MOURNER mourns at the PLACE
+the AGENT grimaced because of the CAUSE at the PLACE
+an AGENT fastens an ITEM into a DESTINATION with a CONNECTOR with a TOOL at a PLACE
+AGENT is plowing with the INSTRUMENT in PLACE
+the AGENT repairs ITEM’s PROBLEM with TOOL in PLACE
+AGENT is training STUDENT in PLACE
+an AGENT pots an ITEM in a CONTAINER at a PLACE
+an AGENT blossoms in a PLACE
+the AGENT cheers in PLACE
+an AGENT jumps from a SOURCE through an OBSTACLE and will end up at a DESTINATION at a PLACE
+AGENT wades through a SUBSTANCE at a PLACE
+the AGENT is leading the FOLLOWER in a PLACE
+AGENT is biting ITEM in PLACE
+an AGENT grieves at a PLACE
+AGENT placed PLACEDITEM in DESTINATION along ALREADYPLACEDITEM in PLACE
+the AGENT drools on END in PLACE
+an AGENT strikes the AGENTPART of a COAGENT with a TOOL at a PLACE
+an AGENT knocks on an ITEM at a PLACE
+the AGENT encourages the RECIEVER in a PLACE
+an AGENT soares in a PLACE
+an AGENT flosses a COAGENT in a PLACE
+AGENT manicures ITEM with TOOL at a PLACE
+the AGENT squints at the ITEM in the PLACE
+the BOATERS boat on a VEHICLE in PLACE
+AGENT is typing with TOOL in PLACE
+AGENT laces ITEM at a PLACE
+the FARMER farms the ITEM from the GROUND with a TOOL at a PLACE
+the AGENT photographes an ITEM with a TOOL in a PLACE
+the AGENT speaks to COAGENT in PLACE
+an AGENT mines the RESOURCE with a TOOL at a PLACE
+a SELLER sells an ITEM to a BUYER at a PLACE
+the AGENT bounces an ITEM against a SURFACE in PLACE
+a SUBSTANCE leaks from a SOURCE into a DESTINATION at a PLACE
+an AGENT cheerleads for the SUPPORTED at a PLACE
+the AGENT signals the MESSAGE to the RECIPIENT with the TOOL in the PLACE
+the AGENT glues ITEM to GOAL with CONNECTOR in PLACE
+the AGENT boards a VEHICLE at a PLACE
+the AGENT nags the NAGGEDPERSON at a PLACE
+the AGENT scrapes the SCRAPEDITEM with a TOOL at the PLACE
+the AGENT records PHENOMENON in PLACE
+an AGENT provides a RECIPIENT with an ITEM from a SOURCE in a PLACE
+an AGENT tips an ITEM with its AGENTPART in a PLACE
+an AGENT nuzzles an ITEM at a PLACE
+the GATHERERS gathered in PLACE
+an AGENT reassures the REASSURED at a PLACE
+AGENT pats ITEM with TOOL at a PLACE
+the AGENT talks to the LISTENER in a MANNER in a PLACE
+the AGENT interrogated the ADDRESSEE with the TOOL in the PLACE
+an AGENT empties an ITEM from a CONTAINER into a DESTINATION with a TOOL in a PLACE
+the AGENT dances in PLACE
+AGENT is skidding in PLACE
+an AGENT flames at a PLACE
+an AGENT subdues a TARGET in a PLACE
+the AGENT hurls the OBJECT from START to END at a PLACE
+AGENT is scooping ITEM from SOURCE with TOOL in PLACE
+an AGENT weeds with a TOOL at a PLACE
+the AGENT disembarks from VEHICLE in PLACE
+the AGENT sews the ITEM with the TOOL in the PLACE
+an AGENT videotapes the DEPICTED at a PLACE
+the AGENT collides with the ITEM at a PLACE
+the AGENT socializes with COAGENT in PLACE
+a BRANCHER branches at a PLACE
+the AGENT giggled at the TARGET at a PLACE
+an AGENT sprints at a PLACE
+an AGENT draws a REFERENCE with a TOOL in a PLACE
+the AGENT votes for VOTEFOR at a PLACE
+an AGENTTYPE swarms at a PLACE
+an AGENT attacks a VICTIM with a WEAPON at a PLACE
+an AGENT autographs an ITEM for a RECEIVER at a PLACE
+AGENT is dissecting ITEM with TOOL in PLACE
+the AGENT emerges from SOURCE to DESTINATION in PLACE
+an AGENT applauds an ADDRESSEE at a PLACE
+an AGENT grills a FOOD at a PLACE
+the AGENT spanks the VICTIM with the TOOL in the PLACE
+the AGENT uses its AGENTPARTs to hug HUGGED at a PLACE
+an AGENT frisks a VICTIM at a PLACE
+the AGENT is gasping in PLACE
+the AGENT crashes the ITEM into the AGAINST at a PLACE
+the AGENT colors ITEM with TOOL in PLACE
+an AGENT detains a VICTIM at a PLACE
+an AGENT rides then VEHICLE at a PLACE
+AGENT is clawing VICTIM in PLACE
+an AGENT hoes the GROUND in a PLACE
+AGENT is rinsing OBJECT with a TOOL in PLACE
+the AGENT fords with TOOL in PLACE
+the AGENT mends ITEM with TOOL in PLACE
+a SPROUTER sprouts at a PLACE
+an AGENT tilts an ITEM with their AGENTPART at a PLACE
+the AGENT frowns in PLACE
+an AGENT sprays a SUBSTANCE onto a DESTINATION from a SOURCE with a TOOL in a PLACE
+AGENT is competing in COMPETITION in PLACE
+an AGENT fries a FOOD in a CONTAINER at a PLACE
+AGENT imitates MODEL in PLACE
+the AGENT stitches with the TOOL and the FASTENER in a PLACE
+an AGENT sows with a TOOL at a PLACE
+an AGENT spills a SUBSTANCE from a SOURCE onto a DESTINATION at a PLACE
+the AGENT covers the ITEM with a COVER at a PLACE
+an AGENT rows a VEHICLE at a PLACE
+an AGENT dips an ITEM into a SUBSTANCE at a PLACE
+an AGENT licks an ITEM at a PLACE
+an AGENT calls with a TOOL at a PLACE
+the AGENT shells the OBJECT in a PLACE
+AGENT is overflowing from SOURCE in PLACE
+an AGENT wheels an ITEM on a CARRIER at a PLACE
+AGENTS discuss at a PLACE
+AGENT circles CENTER in PLACE
+an AGENT constructs a CREATEDITEM with a TOOL from the COMPONENTS at a PLACE
+AGENT buries an ITEM into a DESTINATION with a TOOL at PLACE
+the AGENT throws an ITEM towards a DESTINATION at a PLACE
+AGENT is drenching DRENCHEDITEM with a LIQUID with a TOOL in a PLACE
+an AGENT injects a SUBSTANCE from a SOURCE into a DESTINATION at a PLACE
+the AGENT pricks the PRICKED with the TOOL in the PLACE
+the AGENT is exterminating the PLACE with the INSTRUMENT
+an AGENT camps on/in a SHELTER at a PLACE
+an AGENT tackles a VICTIM in a PLACE
+an AGENT clears an ITEM from a SOURCE with a TOOL in a PLACE
+the AGENT interviews the INTERVIEWEE at a PLACE
+the AGENT is plummeting from the START toward the DESTINATION in the PLACE
+the AGENT wrinkles his/her AGENTPART at a PLACE
+the AGENT wets the OBJECT with LIQUID with a TOOL in a PLACE
+an AGENT reads an ITEM at a PLACE
+an AGENT weighs the MASS with a TOOL in a PLACE
+the AGENT deflected the DEFLECTEDITEM to the DESTINATION at the PLACE
+the AGENT opens the ITEM with the TOOL at the PLACE
+an AGENT brews a TARGET at a PLACE
+an AGENT laps FOOD from a CONTAINER at a PLACE
+the AGENT uses TOOL to vacuum the SURFACE at a PLACE
+an AGENT kicks a VICTIM in the VICTIMPART at a PLACE
+the AGENT phones with the TOOL at the PLACE
+an AGENT picks the CROP from the SOURCE in a PLACE
+the AGENT stares at ITEM in PLACE
+an AGENT folds a CLOTH into a SHAPE at a PLACE
+the AGENT wrings the ITEM at the PLACE
+the AGENT operates an ITEM with a TOOL in PLACE
+AGENT bets at a PLACE
+an AGENT smashes the SMASHED with a TOOL against AGAINST at a PLACE
+AGENT packages ITEM in PLACE
+an AGENT nips an ITEM at a PLACE
+the AGENT is stroking the OBJECT on the PART in the PLACE
+an AGENT pours a SUBSTANCE from a SOURCE to a DESTINATION with a TOOL in a PLACE
+the AGENT pedals his VEHICLE in the PLACE
+AGENT tunes OBJECT with TOOL in PLACE
+an AGENT dusts a SOURCE with a TOOL at a PLACE
+the AGENT chisels the ITEM at the PLACE
+an AGENT attaches a ITEM to a DESTINATION with GLUE with a TOOL at a PLACE
+an AGENT dropped an ITEM from the START to the END at a PLACE
+AGENT baptizes BAPTIZED at a PLACE
+an AGENT instructs a STUDENT at a PLACE
+the AGENT rests ITEM on GOAL in PLACE
+the AGENT shops for GOODS in PLACE
+the AGENT combs the TARGET with a TOOL at a PLACE
+the AGENT coughs in PLACE
+an AGENT releases a RELEASEDITEM from a PLACE
+an AGENT misbehaves at a PLACE
+an AGENT crests at a PLACE
+the AGENT rocks a ROCKED in a CONTAINER in PLACE
+an AGENT dials on an ITEM at PLACE
+an AGENT pays a SELLER for a GOOD at a PLACE
+an AGENT guards an ITEM with a WEAPON at a PLACE
+the AGENT is queueing in PLACE
+the AGENT grinned in the PLACE
+an AGENT leans an ITEM against AGAINST at a PLACE
+the AGENT kissed the COAGENT COAGENTPART with his/her AGENTPART at a PLACE
+AGENT slaps VICTIM in the VICTIMPART with TOOL in PLACE
+AGENT is trimming ITEMPART of ITEM with TOOL in PLACE
+an AGENT bikes at a PLACE
+the AGENT pilots VEHICLE from START to END in PLACE
+the AGENT welds the ITEM to the SURFACE in the PLACE, with the TOOL
+an AGENT erupts with a SUBSTANCE in a PLACE
+an AGENT tills soil with a TOOL at a PLACE
+AGENT arches BODYPART at a PLACE
+the AGENT rubs ITEM with AGENTPART in PLACE
+the AGENT sleeps in the PLACE
+an AGENT skips over an OBSTACLE at a PLACE
+the AGENT presses ITEM in PLACE
+an AGENT cilngs to the CLUNGTO at a PLACE
+an AGENT swings on a CARRIER at a PLACE
+an AGENT prunes a REMOVEDITEM from SOURCE with a TOOL at a PLACE
+AGENT is pinning the PINNED onto a DESTINATION in PLACE
+the AGENT shoots PROJECTILE from the FIREARM at a TARGET in a PLACE
+the AGENT uses a TOOL to unplug UNPLUGGED at a PLACE
+an AGENT parades in a PLACE
+the AGENT fetches the ITEM from SOURCE and brings it to DESTINATION, in PLACE
+an AGENT locks an ITEM with a TOOL in a PLACE
+the AGENT shovels the ITEM from the SOURCE in the PLACE
+an AGENT glares at a PERCEIVER in a PLACE
+AGENT confronts CONFRONTED in PLACE
+the AGENT crammed the THEME into the CONTAINER in the PLACE
+an AGENT disciplines a VICTIM with a TOOL in a PLACE
+an AGENT microwaves a FOOD in a CONTAINER at a PLACE
+AGENT runs at a PLACE
+AGENT is cleaning SOURCE with TOOL in PLACE
+the AGENT spits an ITEM on the TARGET at a PLACE
+the AGENT climbs an OBSTACLE with a TOOL at a PLACE
+AGENT is peeing in TARGET in PLACE
+the AGENT caresses the RECIPIENTPART with the AGENTPART at a PLACE
+an AGENT slithers in a PLACE
+an AGENT flexes their AGENTPART at an ADDRESSEE at a PLACE
+AGENT is studying in PLACE
+an AGENT massages the COAGENTPART of the COAGENT at a PLACE
+AGENT handcuffs VICTIM at a PLACE
+an AGENT assembles the GOALITEM with COMPONENTs with a TOOL at a PLACE
+an AGENT lathers a SUBSTANCE into a DESTINATION at a PLACE
+an AGENT shivers at a PLACE
+AGENT fuels RECIPIENT with TOOL in PLACE
+an AGENT distracts a VICTIM at a PLACE
+it is storming in PLACE
+the AGENT prays at a PLACE
+an AGENT kneels on the CONTACT at PLACE
+the AGENT dined on the FOOD in the PLACE
+the AGENT loads a DESTINATION with an ITEM with a TOOL at a PLACE
+a DECOMPOSER decomposes at a PLACE
+the AGENT exercises the AGENTPART in a PLACE
+the AGENT arrested the SUSPECT in PLACE
+an AGENT shouts at an ADDRESSEE in a PLACE
+an AGENT cries in a PLACE
+an AGENT unloads an ITEM from a SOURCE with a TOOL at a PLACE
+the AGENT harvest the HARVESTEDITEM with a TOOL from the GROUND at the PLACE
+an AGENT barbecues a FOOD at a PLACE
+an AGENT molds a SUBSTANCE into a GOALITEM in a PLACE
+the AGENT checks the PATIENT’s ASPECT with the TOOL in the PLACE
+the AGENT uses a TOOL to descend from SOURCE at a PLACE
+AGENT speaks to an ADRESSEE at a PLACE
+an AGENT aims an ITEM at a TARGET in a PLACE
+an AGENT pounces onto the DESTINATION at a PLACE
+the AGENT uses AGENTPARTs to waddle at a PLACE
+the AGENT performing the EVENT on the STAGE with a TOOL at a PLACE
+the AGENT extracts fish from a SOURCE with a TOOL at the PLACE
+an AGENT tapes an ITEM to a DESTINATION at a PLACE
+the AGENT laughes at a PLACE
+the AGENT immerses an ITEM in a LIQUID in PLACE
+the AGENT gardens with the help of a TOOL in a PLACE
+the VICTIM VICTIMPART is ailing with the CAUSE at the PLACE
+an AGENT twirls a COAGENT in a PLACE
+the AGENT dove in PLACE
+an AGENT sniffs an ITEM in a PLACE
+AGENT fills DESTINATION with ITEM from SOURCE at a PLACE
+the AGENT grinds an ITEM with a TOOL against a SURFACE in PLACE
+the AGENT films a PERFORMER with a TOOL at a PLACE
+an AGENT asks an ADDRESSEE at PLACE
+the AGENT inserts the OBJECT into a CONTAINER at a PLACE
+an AGENT eat a FOOD from a CONTAINER with a TOOL at a PLACE
+an AGENT buckles an ITEM with a FASTENER into a CONTAINER at a PLACE
+an AGENT hitchhikes at a PLACE
+an AGENT bows at a PLACE
+an AGENT trips over an ITEM onto a DESTINATION in a PLACE
+the AGENT officiates an EVENT in PLACE
+the AGENT submerges the OBJECT in SUBSTANCE at a PLACE
+the AGENT waves the AGENTPART in the PLACE
+an AGENT crafts a CREATED with INSTRUMENT in a PLACE
+the AGENT drums on the ITEM with the TOOL in the PLACE
+an AGENT plunges a PLUNGED into a DESTINATION at a PLACE
+the AGENT swims in a PLACE
+the AGENT cartes the ITEM in a TOOL at a PLACE
+the AGENTs stampede in PLACE
+AGENT curling TARGET with TOOL in PLACE
+AGENT is burning TARGET in PLACE
+AGENT perspires in PLACE
+an AGENT spreads a SUBSTANCE onto a SURFACE with a TOOL at a PLACE
+AGENT is clipping ITEM from a SOURCE with TOOL in PLACE
+an AGENT snuggles with a COAGENT at a PLACE
+AGENT carved SUBSTANCE with TOOL in PLACE
+the AGENT tugs the ITEM in the PLACE
+AGENT is calming EXPERIENCER in PLACE
+the AGENT hits the VICTIM on the VICTIMPART with a TOOL in PLACE
+AGENT apprehended VICTIM in PLACE
+the AGENT retrieves the OBJECT from START in a PLACE
+AGENT is camouflaging into HIDINGITEM in PLACE
+the AGENT sneezed at the PLACE
+AGENT tows ITEM onto DESTINATION with TOOL at a PLACE
+AGENT is prowling for TARGET in PLACE
+an AGENT launches an ITEM from a SOURCE toward a DESTINATION at a PLACE
+an AGENT crushed the CRUSHEDITEM with a TOOL at a PLACE
+the AGENT uses a TOOL to pitch the PITCHED at a PLACE
+AGENT offers ITEM to BENEFICIARY at a PLACE
+an AGENT straps the STRAPPED into a DESTINATION with a STRAP at a PLACE
+an AGENT adjusts an ITEM FEATURE with a TOOL at a PLACE
+AGENT lands on a DESTINATION at a PLACE
+the AGENT uses a TOOL to moisturize MOISTURIZED at a PLACE
+the AGENT tastes the ITEM with the TOOL in the PLACE
+an AGENT wipes a SUBSTANCE from a SOURCE with a TOOL at a PLACE
+an AGENT sprinkles an ITEM from a SOURCE onto a DESTINATION at a PLACE
+the AGENT buys GOODS with PAYMENT from the SELLER in a PLACE
+AGENT is applying a SUBSTANCE to a DESTINATION with TOOL in a PLACE
+an AGENT protests at a PLACE
+an AGENT stumbles onto a DESTINATION at a PLACE
+an AGENT staples a ITEM onto a SURFACE with a TOOL in a PLACE
+the AGENT is mopping the SURFACE in the PLACE
+AGENT stirs ITEM in a CONTAINER with TOOL at a PLACE
+an AGENT skates with a VEHICLE at a PLACE
+an AGENT gnaws an ITEM at a PLACE
+the AGENT is floating in MEDIUM with a TOOL at a PLACE
+an AGENT drags an ITEM with a TOOL on a CONTACT at a PLACE
+the TRAVELER commutes in a VEHICLE in PLACE
+the AGENT use a TOOL to plant a PLANTED in PLACE
+the AGENT fixes the OBJECT’s OBJECTPART with a TOOL in a PLACE
+an AGENT milks a SOURCE with a TOOL into a DESTINATION in a PLACE
+the AGENT gambles STAKE in PLACE
+an AGENT brushes a TARGET with a TOOL with a SUBSTANCE at a PLACE
+an AGENT winks at the ADDRESSEE at a PLACE
+the AGENT crouches in the PLACE
+the AGENT pries the ITEM from the FROM with a TOOL at a PLACE
+the AGENT whistles with TOOL in PLACE
+AGENT helped ENTITYHELPED with a TOOL in PLACE
+the AGENT smells ITEM in PLACE
+an AGENT unlocks a CONTAINER by opening a LOCK with a TOOL in a PLACE
+the AGENT extinguishes ITEM with TOOL in PLACE
+an AGENT builds a GOALITEM from COMPONENTS with a TOOL in a PLACE
+a AGENT rots in a CONTAINER at a PLACE
+an AGENT paints an ITEM with a TOOL at a PLACE
+an AGENT is admiring the ADMIRED at a PLACE
+an AGENT waxes a COAGENT BODYPART at a PLACE
+AGENT is stripping REMOVEDITEM from SOURCE with TOOL in PLACE
+the AGENT embraces the COAGENT at a PLACE
+the AGENT crowns the CROWNEDENTITY with a CROWN at the PLACE
+an AGENT buttons an ITEM in a PLACE

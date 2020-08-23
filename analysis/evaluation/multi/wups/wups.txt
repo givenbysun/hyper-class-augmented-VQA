@@ -1,0 +1,5 @@
+soft WUPS at 0.90 is used
+computing the final score
+exact final score: 0.51830696341
+final score is 51.83%
+
